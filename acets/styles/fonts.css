@@ -1,5 +1,5 @@
 
-@font-face {
+@font-face { /* cuidado com importações de fontes */
     font-family: 'poppinsblack';
     src: url('../landinpage\ roxa/fonts') format('woff2'),
          url('../landinpage\ roxa/fonts/poppins-black-webfont.woff') format('woff');
